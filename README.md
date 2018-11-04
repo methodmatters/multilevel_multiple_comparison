@@ -1,4 +1,4 @@
-# Companion files to accompany blog post on multi-level models / multiple comparisons
+# Data and code for blog post on multi-level models / multiple comparisons
 
 The content here accompanies the following blog post:
 
