@@ -1,4 +1,4 @@
-# Files to accompany blog post on using multi-level models to conduct multiple comparisons
+# Companion files to accompany blog post on multi-level models / multiple comparisons
 
 The content here accompanies the following blog post:
 
